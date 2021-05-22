@@ -2,7 +2,7 @@
 
 Python is a powerful, modern programming language that has the capabilities required for experienced programmers, while being easy enough for beginners to learn. 
 
-[The course](https://www.udemy.com/course/data-analytics-with-python-full-course-for-beginners) covers everything you need to get started with Python. The course also provides regular quizzes and hands-on exercises to enable you not only to understand the concepts but to practice them thoroughly. "Talk is cheap, show me your code", we want you to make mistakes, correct them and learn from experience.
+[The course](https://www.udemy.com/course/data-analysis-with-python-full-course-for-beginners/) covers everything you need to get started with Python. The course also provides regular quizzes and hands-on exercises to enable you not only to understand the concepts but to practice them thoroughly. "Talk is cheap, show me your code", we want you to make mistakes, correct them and learn from experience.
 
 
 ## Highlight
